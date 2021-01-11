@@ -1,0 +1,29 @@
+img {
+    height: 300px;
+    border: 5px solid blue;
+    padding: 5px;
+    border-color:#99ff66;
+}
+
+p {
+    height:10px;
+ border: 10px solid red;   
+    padding: 10px;
+    border-color: #ffff66;
+}
+    
+h3 {
+ height:20px;
+    border: 12px solid cyan;
+    padding: 12px;
+    border-color: #cc00cc;
+    
+}
+
+
+
+
+
+
+
+
